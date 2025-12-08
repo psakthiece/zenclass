@@ -93,3 +93,120 @@ echo "$x is the value of x"
 echo "$y is the value of y"
 echo "$(( $x + $y )) is the output"
 echo "$(date) -  $0 is the script name"
+
+
+
+History -->
+
+    1  clear
+    2  netstat -tulpn
+    3  sudo apt update
+    4  sudo apt install net-tools
+    5  netstat -tulpn
+    6  alias nstat="netstat -tulpn"
+    7  nstat
+    8  ls
+    9  pwd
+   10  cd /tmp/
+   11  vi sample.sh
+   12  ./sample.sh
+   13  sh sample.sh
+   14  bash sample.sh
+   15  vi sample.sh
+   16  bash sample.sh
+   17  vi sample.sh
+   18  chmod +x sample.sh
+   19  ./sample.sh
+   20  echo $DATE
+   21  echo $date
+   22  echo date
+   23  date
+   24  echo $(date)
+   25  date
+   26  hostname
+   27  whoami
+   28  printenv
+   29  printenv --help
+   30  sudo su
+   31  cd
+   32  pwd
+   33  ls -a
+   34  ls
+   35  ls -l
+   36  ls -la
+   37  vi .bashrc
+   38  netst
+   39  cat .bashrc
+   40  source .bashrc
+   41  netst
+   42  cd /tmp/
+   43  rm -rf sample.sh
+   44  vi sample1.sh
+   45  sudo chown ubuntu sample1.sh
+   46  vi sample1.sh
+   47  bash sample1.sh
+   48  whoami
+   49  vi sample1.sh
+   50  bash sample1.sh
+   51  vi sample1.sh
+   52  bash sample1.sh 12 8
+   53  vi sample1.sh
+   54  bash sample1.sh 12 8
+   55  cat sample1.sh
+   56  vi sample1.sh
+   57  bash sample1.sh 4 5
+   58  bash sample1.sh 5 4
+   59  vi sample1.sh
+   60  bash sample1.sh
+   61  vi sample1.sh
+   62  bash sample1.sh
+   63  vi sample1.sh
+   64  bash sample1.sh
+   65  vi sample1.sh
+   66  bash sample1.sh
+   67  crontab --help
+   68  crontab -l
+   69  crontab -e
+   70  ls /tmp/output.log
+   71  rm /tmp/output.log
+   72  sudo rm /tmp/output.log
+   73  ls /tmp/outp
+   74  date
+   75  ls /tmp/outp
+   76  date
+   77  ls /tmp/outp
+   78  date
+   79  ls /tmp/outp
+   80  ls /tmp/output.log
+   81  cat /tmp/output.log
+   82  date
+   83  crontab -l
+   84  date
+   85  date\
+   86  date
+   87  cat /tmp/output.log
+   88  crontab -e
+   89  cat /tmp/output.log
+   90  date
+   91  cat /tmp/output.log
+   92  crontab -l
+   93  cat /tmp/output.log
+   94  date
+   95  cat /tmp/output.log
+   96  crontab -e
+   97  date
+   98  cat /tmp/output.log
+   99  date
+  100  cat /tmp/output.log
+  101  date
+  102  cat /tmp/output.log
+  103  echo $(date +"%Y-%m-%d")
+  104  crontab -e
+  105  cat /tmp/output.log
+  106  crontab -l
+  107  ls /etc/cron.d
+  108  vi sample1.sh
+  109  vi sample2.sh
+  110  ls -lrth
+  111  crontab -l
+  112  history
